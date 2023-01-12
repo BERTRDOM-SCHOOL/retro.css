@@ -1,6 +1,12 @@
 # retro.css
 It's a alt to bootstrapper.
 
+```
+This is created by Dominic!
+
+retro.css
+```
+
 # How to use
 
 ## Background color
@@ -63,4 +69,22 @@ btn-three-rounded
 <h1 class="large-white"></h1>
 <h1 class="medium-white"></h1>
 <h1 class="small-white"></h1>
+```
+
+### Create Postcard
+
+```html
+<div>
+  <div class="postcard-white"></div>
+  <h1 class="small-black">Text</h1>
+  <br>
+  <br>
+</div>
+```
+
+### Paragraph
+
+```html
+<p class="paragraph-black"></p>
+<p class="paragraph-white"></p>
 ```
