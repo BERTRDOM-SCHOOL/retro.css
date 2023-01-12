@@ -5,6 +5,12 @@ It's a alt to bootstrapper.
 This is created by Dominic!
 
 retro.css
+
+Info:
+
+retro.css is a combination of retro style websites and more modern websites.
+retro.css uses modern looking buttons, postcards and much more while still
+keeping the retro feel!
 ```
 
 # How to use
